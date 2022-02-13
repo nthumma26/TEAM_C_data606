@@ -1,12 +1,11 @@
 # TEAM_C_data606
 ### This project is part of DATA-606 Capstone project -TEAM-C
 
- **This folder is for the capstone project in Data Science**
+
+__Title__: End to End data science application which can be leveraged by banks to assess creditworthiness, lower bad debt burden, and increase the trust in the existing data rather than document-based. 
  
+
  ![1_ZQ25X7Qnq6ui83yc8RB5pQ](https://user-images.githubusercontent.com/91147579/153736327-3ce3b9dd-2e12-4430-83a6-c9e17aa30c36.png)
-
-
-__Title__: Building loan defaulters classification model by using multiple machine learning models.
 
 __Background Information__: Money lending has been a prominent activity to make money out of money.  Institutional banking agencies & many individuals are pursuing this activity to make themselves profitable. Though, this activity has many upsides in terms of investing money that beats the interest rates in the market. But, there are also customers or borrowing agencies who default the loans either intentionally or eventually depending upon the circumstances thus making loans defaulting rate to 6%.  Thus, it became imperative to validate the borrowing credentials before issuing the loans or lending money directly. 
 
