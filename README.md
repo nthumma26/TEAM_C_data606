@@ -17,25 +17,57 @@ __Dataset Description__: We found the dataset from Kaggle. The size of dataset i
 
 __Data source__- https://www.kaggle.com/yasserh/loan-default-dataset
 
-__Unit of Analysis__: Records of customers data like the data provided during accessing the loan initially.
+__Unit of Analysis__: Loan record of applicant.
 
 __Number of observations to be analysed__: 148671
 
 __Output Variable__: Loan status
 
-__Models to be used__: Random Forest with Grid search CV, Logistic Regression with Grid search CV, Support Vector Machine with Grid search CV, K Nearest Neighbors with Grid search CV, Bagging with Base estimator as Random Forest, Bagging with Base estimator as Logistic Regression, AdaBoost Classifier, Multilayer Perceptron Classifier.
+__Models to be used__: 
+
+1. Random Forest with Grid search CV
+
+2. Logistic Regression with Grid search CV
+
+3. Support Vector Machine with Grid search CV
+
+4. K Nearest Neighbors with Grid search CV
+
+5. Bagging with Base estimator as Random Forest
+
+6. Bagging with Base estimator as Logistic Regression
+
+7. AdaBoost Classifier
+
+8. Multilayer Perceptron Classifier
+
+9. Neural Networks
+
+10. Tensor Flow.
 
 __Evaluation metrics to be used__: we are planning to evaluate the metrics such as recall, accuracy, precision, f-1 score, confusion matrix, ROC-AUC scores. After determining the metric to evaluate the model with the help of the business understanding of the domain of the data, we'll figure out the ways to improve the performance of the model.
 
 __Expected Outcomes__: 
 1) Importance of business domain understanding in choosing and evaluating the model. 
+
 2) To apply various machine learning models to classify the outcome. 
+
 3) Usage of Various evaluating metrics to determine the performance of the model. 
+
 4) Importance of Various Statistical Analysis Understanding the Dimensionality Reduction. 
+
 5) Understanding the Bias-Variance trade-off. 
+
 6) Application of Principal component analysis. 
+
 7) Usage of Grid search Validations. 
+
 8) Understanding of Various activation functions. 
+
 9) Effectively handling the outliers. 
+
 10) Usage of various hyperparameters. 
+
 11) Analyzing & Visualizing the data.
+
+12) Building a dashboard which helps banking stakeholders to access the status of creditworthiness.
