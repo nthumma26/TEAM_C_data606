@@ -132,25 +132,25 @@ __Roles & Responsibilities__
 
 __Narendra Thuma__:
 
-Implementing various classification algorithms like Logistic Classification
-Naive Bayes
-SVM
-Decision Trees
-KNN & ensembling modelling
-Developing an algorithm to access the credit risk in lending
-Dashboard development
+* Implementing various classification algorithms like Logistic Classification
+* Naive Bayes
+* SVM
+* Decision Trees
+* KNN & ensembling modelling
+* Developing an algorithm to access the credit risk in lending
+* Dashboard development
 
 __Vaishnavi Vejella__:
 
-Data gathering
-Data Cleaning
-Data Visualization
-Finding business value in developing the model.
-Dashboard development
+* Data gathering
+* Data Cleaning
+* Data Visualization
+* Finding business value in developing the model.
+* Dashboard development
 
 __Rakesh Reddy__:
 
 * Choosing the right evaluation metric to gauge the performance of the developed model 
 * Performing various statistical analysis on the data 
-Interpretation of the results of statistical analysis
-Dashboard development
+* Interpretation of the results of statistical analysis
+* Dashboard development
