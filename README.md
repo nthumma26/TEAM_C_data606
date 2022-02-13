@@ -2,7 +2,7 @@
 ### This project is part of DATA-606 Capstone project -TEAM-C
 
 
-__Title__: End to End data science application which can be leveraged by banks to assess creditworthiness, lower bad debt burden, and increase the trust in the existing data rather than document-based. 
+__Title__: **End to End data science application which can be leveraged by banks to assess creditworthiness, lower bad debt burden, and increase the trust in the existing data rather than document-based assessment. 
  
 
  ![1_ZQ25X7Qnq6ui83yc8RB5pQ](https://user-images.githubusercontent.com/91147579/153736327-3ce3b9dd-2e12-4430-83a6-c9e17aa30c36.png)
