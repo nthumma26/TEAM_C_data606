@@ -13,6 +13,9 @@ __Severity of the issue__: If loan default occurs continuously it becomes a red 
 
 __Goals of the Project__: We want to help the lenders or banking institutions to evaluate their customers by predicting whether they default on the loan or not. This in turn increases the credibility of the banks in the public if they lower their loan defaulters.
 
+![determining-customer-creditworthiness thumb 1280 1280](https://user-images.githubusercontent.com/91147579/153737030-54ff439d-1c8d-4f8c-aa0e-e9209b11c5c5.png)
+
+
 __Dataset Description__: 
 
 ID: Customer ID of Applicant
