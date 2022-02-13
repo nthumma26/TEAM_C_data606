@@ -2,6 +2,9 @@
 ### This project is part of DATA-606 Capstone project -TEAM-C
 
  **This folder is for the capstone project in Data Science**
+ 
+ ![1_ZQ25X7Qnq6ui83yc8RB5pQ](https://user-images.githubusercontent.com/91147579/153736327-3ce3b9dd-2e12-4430-83a6-c9e17aa30c36.png)
+
 
 __Title__: Building loan defaulters classification model by using multiple machine learning models.
 
