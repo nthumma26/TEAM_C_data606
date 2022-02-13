@@ -7,14 +7,26 @@ __Title__: **End to End data science application which can be leveraged by banks
 
  ![1_ZQ25X7Qnq6ui83yc8RB5pQ](https://user-images.githubusercontent.com/91147579/153736327-3ce3b9dd-2e12-4430-83a6-c9e17aa30c36.png)
 
-__Background Information__: Money lending has been a prominent activity to make money out of money.  Institutional banking agencies & many individuals are pursuing this activity to make themselves profitable. Though, this activity has many upsides in terms of investing money that beats the interest rates in the market. But, there are also customers or borrowing agencies who default the loans either intentionally or eventually depending upon the circumstances thus making loans defaulting rate to 6%.  Thus, it became imperative to validate the borrowing credentials before issuing the loans or lending money directly. 
+__Background Information__: Money lending has been a prominent activity to make money out of money.  Institutional banking agencies & many individuals are pursuing this activity to make themselves profitable. After thorough research, we've found that with the technologies like decentralization finance and other technologies in place there must be a data-driven approach to solve the gap in the banking sector for accessing the customers better in terms of lowering the burden of bad debts and creditworthiness of the applicants.  
 
-__Severity of the issue__: If loan default occurs continuously it becomes a red flag for lenders and they cannot issue new or more loans to new customers and as well as the capital capacity of their company will fall eventually as investors will back out investing money in the company with an increasing amount of loan defaults. And finally, it leads to more debt on the company intern which leads to losses to the company. To overcome all of these issues we need to have a proper mechanism to implement certain latest methods in the technology to predict the chances of defaulting particular loan so that we can avoid sanctioning that particular loan to be better in the market as well investors perspective for future investments for that particular bank.
+__Severity of the issue__: After the global financial crisis, we've found that with the availability of better-skilled workers in many industrial sectors and better cash flows with increased income levels in individuals the roadblocks in accessing the capital are not eliminated (below graph shows the same).
 
-__Goals of the Project__: We want to help the lenders or banking institutions to evaluate their customers by predicting whether they default on the loan or not. This in turn increases the credibility of the banks in the public if they lower their loan defaulters.
+![ecb ebart202004_02 en_img0](https://user-images.githubusercontent.com/91147579/153737836-41813e59-4b6a-484b-abe8-a5b64605cddf.png)
+
+Existing problems in the banking sector:
+
+1. Lack of data-driven approach in accessing the customer.
+2. Following the same traditional methodology of underwriting the collateral to grant the loans.
+3. Does not consider the steady cash flow of the individuals to estimate the risk.
+4.  Improper accessing customers solely based on collateral.
+
+
+__Goals of the Project__: To incorporate an end-to-end data science project which could address the existing gaps in the banking sector by powering them with a web-based dashboard to access the creditworthiness of the customer.
+
 
 ![determining-customer-creditworthiness thumb 1280 1280](https://user-images.githubusercontent.com/91147579/153737030-54ff439d-1c8d-4f8c-aa0e-e9209b11c5c5.png)
 
+**This project aims to address the gap of improper customer assessmnet and developing a new way to access the customers by the data driven approaches **
 
 __Dataset Description__: 
 
