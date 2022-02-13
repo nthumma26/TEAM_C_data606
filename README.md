@@ -13,7 +13,48 @@ __Severity of the issue__: If loan default occurs continuously it becomes a red 
 
 __Goals of the Project__: We want to help the lenders or banking institutions to evaluate their customers by predicting whether they default on the loan or not. This in turn increases the credibility of the banks in the public if they lower their loan defaulters.
 
-__Dataset Description__: We found the dataset from Kaggle. The size of dataset is 28MB which contains 34 columns namely ID, year, loan_limit, gender, approv_in_adv, loan_type, loan_purpose, Credit_Worthiness, open_credit, business_or_commercial, loan_amount, rate_of_interest, Interest_rate_spread, Upfront_charges, term, Neg_ammortization means Negotiative ammortization, interest_only, lump_sum_payment, property_value, construction_type, occupancy_type, Secured_by, total_units, income, credit_type, credit_score, co-applicant_credit_type, age, submission_of_application, LTV, region, Security_Type, status, dtir_1.
+__Dataset Description__: 
+
+ID: Customer ID of Applicant
+
+year: Year of Application
+
+loan_limit: Cash Flow or Net Cash Flow type
+
+gender: Applicant's gender
+
+approv_in_adv: Is loan pre-approved or not
+
+loan_type: Type of loan
+
+loan_purpose: Purpose of loan
+
+Credit_Worthiness: Credit worthiness of the applicant
+
+open_credit: Type of Credit (Open credit or Non open credit)
+
+business_or_commercial: Usage type of the loan amount
+
+loan_amount: The exact loan amount
+
+rate_of_interest: Rate of interest of the loan 
+
+Interest_rate_spread: Spread of interest rate by banks
+
+Upfront_charges: Up front loan sanctioning charges
+
+lump_sum_payment: Down payment for the loan 
+
+property_value: Collateral value
+
+construction_type: Collateral construction type
+
+age: Age of applicant
+
+Security_Type: Type of Collatoral
+
+status: Loan status (Approved/Declined)
+
 
 __Data source__- https://www.kaggle.com/yasserh/loan-default-dataset
 
