@@ -26,7 +26,7 @@ __Goals of the Project__: To incorporate an end-to-end data science project whic
 
 ![determining-customer-creditworthiness thumb 1280 1280](https://user-images.githubusercontent.com/91147579/153737030-54ff439d-1c8d-4f8c-aa0e-e9209b11c5c5.png)
 
-**This project aims to address the gap of improper customer assessmnet and developing a new way to access the customers by the data driven approaches **
+**This project aims to address the gap of improper customer assessmnet and developing a new way to access the customers by the data driven approaches**
 
 __Dataset Description__: 
 
